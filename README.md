@@ -1,1 +1,1 @@
-# DeepLearning-with-PyTorch
+# PyTorch 숙련도를 올려 기계에게 학습을 잘 시켜보자
