@@ -1,1 +1,1 @@
-# PyTorch 숙련도를 올려 기계에게 학습을 잘 시켜보자
+# PyTorch를 활용, Image Segmentation으로 Labeling 후 딥러닝을 통해 최적의 각속도 계산 후 경로 생성
